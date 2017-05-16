@@ -1,0 +1,19 @@
+body{
+	background-color: ghostwhite;
+}
+
+h4 {
+	line-height: 1.5em;
+}
+
+.container {
+	margin-top: 5%;
+}
+
+.img-responsive {
+	margin-bottom: 40px;
+}
+
+.btn {
+	margin-bottom: 10px;
+}
