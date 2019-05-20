@@ -2,7 +2,7 @@ console.log('keyword generator');
 
 
 var create_url = function(keyword){
-	STRING_URL = 'https://www.woolworths.com.au/Shop/Search/Products?searchTerm=' + keyword;
+	STRING_URL = 'https://www.woolworths.com.au/shop/search/products?searchTerm=' + keyword;
 	$("#generatedUrls").append(STRING_URL + '<br>');
 };
 
